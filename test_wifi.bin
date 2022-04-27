@@ -1,0 +1,30 @@
+handshake success: new session started
+W (6676) anjay: WARNING [anjay] [../main/anjay/src/core/servers/anjay_connection_ip.c:147]: could not store bound local port
+I (6686) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_connections.c:163]: reconnected
+W (6696) NET: In net_get_opt
+I (6696) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_register.c:814]: Attempting to register with LwM2M version 1.0
+W (6716) NET: In net_get_opt
+I (6716) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_register.c:779]: Register sent
+W (6726) NET: In net_get_opt
+W (6726) NET: In net_get_opt
+In net receive
+17 fe fd 00 01 00 00 00 00 00 01 00 90 a7 53 87 9d aa 0d f0 d7 05 7c 3c 12 14 22 8f 85 03 fc e8 e8 07 74 52 5c c3 78 95 14 57 0d f3 e6 70 86 97 60 44 0c 92 6c a9 60 6a 8a 42 66 05 64 9d 02 ce a9 ca 35 b4 91 c0 7b 2e 4c 5b a3 59 76 05 4f 0e 18 60 d8 1d f3 5c 54 a9 36 c9 35 2f 39 17 f0 6a 43 ab 70 e0 7b 9b 1e 5d 33 c7 a5 b5 0b 33 2a 57 9e eb 99 31 f4 4d d2 6d 99 de 0b 4a f4 58 55 68 87 69 c9 4c ef 7a 4f b5 57 0c e9 58 0c 1e f7 45 b9 7b 27 fe 79 78 85 9f f0 08 99 e0 54
+W (6776) NET: In net_get_opt
+W (6796) NET: In net_get_opt
+W (6796) NET: In net_get_opt
+W (6796) NET: In net_get_opt
+W (6796) NET: In net_get_opt
+W (6796) NET: In net_get_opt
+W (6796) NET: In net_get_opt
+W (6976) NET: In net_get_opt
+W (6976) NET: In net_get_opt
+W (6976) NET: In net_get_opt
+W (6976) NET: In net_get_opt
+W (6976) NET: In net_receive
+poll else
+In net receive
+17 fe fd 00 01 00 00 00 00 00 01 00 50 61 0b 6a 6d ab 70 7b ce 5d a1 66 d2 e7 91 b6 df 0c 3d f2 8b 67 8c 25 01 55 3f e3 b6 7e 8b bd 05 d0 b7 f7 26 d0 9e f8 c9 32 87 3b 26 16 6b ef b9 1b 8e ea 98 ac fb 37 e6 5f 04 ee b8 e2 47 3b e3 ac b7 cb 32 27 9b 5f c9 2f 60 a8 1a 94 80 1f cc
+f_recv_timeout: 93
+receive_register_response
+request_state: 0
+I (7016) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_register.c:607]: registration successful, location = /rd/test-device-2

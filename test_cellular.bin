@@ -1,0 +1,105 @@
+
+handshake success: new session started
+W (12788) anjay: WARNING [anjay] [../main/anjay/src/core/servers/anjay_connection_ip.c:147]: could not store bound local port
+I (12798) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_connections.c:163]: reconnected
+W (12808) NET: In net_get_opt
+AVS_NET_SOCKET_OPT_STATE: 2
+I (12818) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_register.c:814]: Attempting to register with LwM2M version 1.0
+W (12828) NET: In net_get_opt
+AVS_NET_SOCKET_OPT_STATE: 2
+I (12828) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_register.c:779]: Register sent
+W (12838) NET: In net_get_opt
+AVS_NET_SOCKET_OPT_STATE: 2
+W (12848) NET: In net_get_opt
+AVS_NET_SOCKET_OPT_INNER_MTU
+17 fe fd 00 01 00 00 00 00 00 04 00 90 35 cd 31 c2 9d 73 05 59 68 08 40 e6 8f 0a bb c7 04 b8 2f 89 77 a1 91 67 57 62 70 86 5e e1 91 07 bc 5b 5a 5b 9a ab 45 8b d0 2d d4 28 c6 c1 e0 69 3f 9b 64 11 7c 51 ce df fc db 9c 28 e3 9b 5e 0f 31 44 a9 aa ce 37 5c ad 13 ba 69 ba 12 fe 1a 3d 22 a1 23 17 13 18 78 29 7e e0 82 24 8c 82 7e 96 be b7 92 66 c8 19 f4 c9 9c 30 f9 a4 2c 41 4e 3c a1 54 3c 3d 06 3d 13 6c c0 20 45 5b 9f c4 d5 f6 1e fb 4d 1f 9d fd 7e b9 7b 68 67 85 0f 36 4c 69
+17 fe fd 00 01 00 00 00 00 00 01 00 90 80 52 b0 f2 0a a1 d4 21 09 e2 1f 78 15 94 b0 59 7f c2 d3 c7 9d 1f 73 a4 61 96 b4 bd b9 90 03 1b 88 5d 5a 27 f3 77 82 30 db 6b 23 09 83 6b 30 00 01 77 0e 0e c4 fa 0f f7 b8 79 ac cf 44 c6 88 0a 5c 82 f0 22 c5 82 b6 dd 9c 81 ae e0 c1 37 f1 b5 e7 a9 57 22 05 76 30 98 51 82 b5 43 93 9b 19 2a 2f a4 bf bb b9 6c f3 2c 33 ab 0b c5 0b a7 c0 9b cf 0b a0 cc ff e6 d0 0c 1b a8 87 71 64 e2 c5 8d b2 93 97 d5 b4 0e c0 07 2e 46 ba 97 cc 99 df e0
+17 fe fd 00 01 00 00 00 00 00 01 00 90 b6 61 af 44 d5 fe 43 c7 cc a4 e6 d5 13 f9 5c f9 87 3e ad 18 68 0e a1 5f 99 b1 1a 48 5d 71 9a 0a c8 29 64 02 81 24 20 b4 dc 72 16 df f6 6d 2f b2 88 ba 74 c9 55 8b 6a ae af f5 0e 5c 62 01 3e 53 8e 6a ed 3a 94 37 4f 57 b9 3e 25 1c 34 36 d7 a3 89 84 1d 5d 81 4c dc df 50 9f 44 a5 5b 19 99 cb 5e 7c 28 f4 39 8d 2d f0 a4 b6 7d 6c 88 67 2f c7 db 93 ee 17 76 bc 77 d6 93 dd c4 61 e6 c9 9a 98 0d e7 a1 f4 00 8a 31 7d 37 fb 2b cb 69 07 6f a7
+----------------------------------------------------------------------------------
+W (12858) NET: In net_send
+In cellular sending
+41 54 2b 51 49 53 45 4e 44 3d 30 2c 31 35 37 0d
+
+In cellular receive
+
+In cellular receive
+0d 0a 3e 20
+
+In cellular sending
+17 fe fd 00 01 00 00 00 00 00 01 00 90 6f 24 66 1d 90 8b f1 f6 dd 13 be a6 2b de d4 04 bf 04 0b 54 58 7f a4 fa 8c 75 83 8c 55 46 
+
+In cellular receive
+b0 df 48 77 05 b1 e4 65 33 03 ef 16 c7 7a 6e 7f b3 01 f8 c6 0e 4a 8c fe 8b ca 8f 23 27 be 2a b1 cb 5d be 10 a7 92 94 ff ad 2c 4d
+ec eb f4 c4 90 ed 24 4e 9c 3c 12 5f 30 22 26 a9 f4 88 e1 c7 ff 93 0c 76 97 25 e2 7e 29 f6 3e 65 81 b0 8c 17 8c a3 60 d0 64 1d 6b ee 25 94 ee 40 58 db 8d 45 5f b0 e0 9b 7a 09 c6 63 2f 4f e8 cf 0a 10 fa a3 36 21 d5
+
+In cellular receive
+0d 0a 53 45 4e 44 20 4f 4b 0d 0a
+17 fe fd 00 01 00 00 00 00 00 01 00 90 6f 24 66 1d 90 8b f1 f6 dd 13 be a6 2b de d4 04 bf 04 0b 54 58 7f a4 fa 8c 75 83 8c 55 46 
+
+In cellular receive
+b0 df 48 77 05 b1 e4 65 33 03 ef 16 c7 7a 6e 7f b3 01 f8 c6 0e 4a 8c fe 8b ca 8f 23 27 be 2a b1 cb 5d be 10 a7 92 94 ff ad 2c 4d ec eb f4 c4 90 ed 24 4e 9c 3c 12 5f 30 22 26 a9 f4 88 e1 c7 ff 93 0c 76 97 25 e2 7e 29 f6 3e 65 81 b0 8c 17 8c a3 60 d0 64 1d 6b ee 25 94 ee 40 58 db 8d 45 5f b0 e0 9b 7a 09 c6 63 2f 4f e8 cf 0a 10 fa a3 36 21 d5
+
+In cellular receive
+0d 0a 2b 51 49 55 52 43 3a 20 22 72 65 63 76 22 2c 30 0d 0a
+
+In cellular receive
+
+----------------------------------------------------------------------------------
+W (15088) NET: In net_send
+In cellular sending
+41 54 2b 51 49 53 45 4e 44 3d 30 2c 31 35 37 0d
+
+In cellular receive
+0d 0a 3e 20
+
+In cellular sending
+17 fe fd 00 01 00 00 00 00 00 02 00 90 af 18 48 90 5d 9a 3f 2a 37 73 2f 51 8d 57 af bb 8d ff 9d 8c 96 cc 9d b5 2a f0 69 8b 82 15 
+
+In cellular receive
+ba 4a 53 d1 24 d9 01 46 d1 7a 47 38 a8 d2 5a 4b 1d 89 1d 4c 56 2c 79 4a b8 cc a6 e4 ec 96 bf 60 48 c2 90 e9 2a 89 b9 76 21 23 22
+ab 99 e4 67 d8 be 5c 8e 9c b1 96 29 ed 29 60 96 c0 52 aa a0 08 79 7c d9 52 97 a0 bd 59 b3 82 01 75 52 b1 6c 1c e3 49 bc d4 4f 34 82 a8 af 17 f4 b4 36 d8 c6 41 58 11 8d be 4e 70 ad 4f 78 1f 56 e2 aa df 0b c0 38 b9
+
+
+In cellular receive
+0d 0a 53 45 4e 44 20 4f 4b 0d 0a
+17 fe fd 00 01 00 00 00 00 00 02 00 90 af 18 48 90 5d 9a 3f 2a 37 73 2f 51 8d 57 af bb 8d ff 9d 8c 96 cc 9d b5 2a f0 69 8b 82 15 
+
+In cellular receive
+ba 4a 53 d1 24 d9 01 46 d1 7a 47 38 a8 d2 5a 4b 1d 89 1d 4c 56 2c 79 4a b8 cc a6 e4 ec 96 bf 60 48 c2 90 e9 2a 89 b9 76 21 23 22
+ab 99 e4 67 d8 be 5c 8e 9c b1 96 29 ed 29 60 96 c0 52 aa a0 08 79 7c d9 52 97 a0 bd 59 b3 82 01 75 52 b1 6c 1c e3 49 bc d4 4f 34 82 a8 af 17 f4 b4 36 d8 c6 41 58 11 8d be 4e 70 ad 4f 78 1f 56 e2 aa df 0b c0 38 b9
+
+
+
+
+
+
+
+
+
+
+
+
+
+I (9451) anjay: INFO [anjay] [../main/anjay/src/core/servers/anjay_register.c:779]: Register sent
+W (9461) NET: In net_get_opt
+AVS_NET_SOCKET_OPT_STATE: 2
+W (9461) NET: In net_get_opt
+AVS_NET_SOCKET_OPT_INNER_MTU
+W (9471) NET: In net_send
+In cellular receive
+
+In cellular receive
+0d 0a 3e 20
+In cellular receive
+
+In cellular receive
+0d 0a 53 45 4e 44 20 4f 4b 0d 0a
+W (9501) NET: In net_get_opt
+AVS_NET_SOCKET_OPT_STATE: 2
+In cellular receive
+
+In cellular receive
+0d 0a 2b 51 49 55 52 43 3a 20 22 72 65 63 76 22 2c 30 0d 0a
+In cellular receive
+
+W (10461) NET: In net_get_opt
